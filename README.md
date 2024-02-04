@@ -1,5 +1,4 @@
- ## Hi there 👋
- ##Information Board
+ ## Hi there  ##Information Board
 
 🔭 I’m currently working on the Class Meme Network  
 🌱 I’m currently learning Java  
