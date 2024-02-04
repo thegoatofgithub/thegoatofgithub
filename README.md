@@ -12,7 +12,5 @@
  ### Current Projects    
   -[Class Meme Network](https://github.com/thegoatofgithub/classmemenetwork)   
   ### Recent Commits to the Class Meme Network   
-    ## Create README.md   
-     Just the readme  
-    ## Create index.html  
-     Created the index.html  
+    ## Create Readme.md
+    ## Create index.html
